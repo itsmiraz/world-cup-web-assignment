@@ -19,6 +19,7 @@
       margin: 50px 140px 130px 140px;
       background-color: #161616;
       border-radius: 30px;
+      transition: 0.10s;
   }
 
   .heading {
@@ -64,6 +65,10 @@
       top: 83px; */
       width: 442px;
       margin: 33px 50px 0px 10px;
+  }
+
+  header:hover {
+      transform: scale(103%);
   }
 
   /* ------ Main Section ------- */
