@@ -297,23 +297,9 @@
           font-size: 40px;
       }
 
-      .heading .wrap {
-          margin-right: 38px;
-          margin-left: 10px;
-          margin-bottom: 10px;
-          text-align: center;
-          font-size: 18px;
-          width: 220px;
-
-          height: 60px;
-
-      }
-
-      .wrap {
-          white-space: nowrap;
-          overflow: hidden;
-          text-overflow: ellipsis;
-
+      .heading p {
+          font-size: 14px;
+          color: #a09e9e;
       }
 
       .heading-img img {
